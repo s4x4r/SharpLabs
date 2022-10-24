@@ -1,0 +1,15 @@
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\bin\Debug\net6.0\ZadanieFirst(if.else).exe
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\bin\Debug\net6.0\ZadanieFirst(if.else).deps.json
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\bin\Debug\net6.0\ZadanieFirst(if.else).runtimeconfig.json
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\bin\Debug\net6.0\ZadanieFirst(if.else).dll
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\bin\Debug\net6.0\ZadanieFirst(if.else).pdb
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\obj\Debug\net6.0\ZadanieFirst(if.else).csproj.AssemblyReference.cache
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\obj\Debug\net6.0\ZadanieFirst(if.else).GeneratedMSBuildEditorConfig.editorconfig
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\obj\Debug\net6.0\ZadanieFirst(if.else).AssemblyInfoInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\obj\Debug\net6.0\ZadanieFirst(if.else).AssemblyInfo.cs
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\obj\Debug\net6.0\ZadanieFirst(if.else).csproj.CoreCompileInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\obj\Debug\net6.0\ZadanieFirst(if.else).dll
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\obj\Debug\net6.0\refint\ZadanieFirst(if.else).dll
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\obj\Debug\net6.0\ZadanieFirst(if.else).pdb
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\obj\Debug\net6.0\ZadanieFirst(if.else).genruntimeconfig.cache
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieFirst(if.else)\obj\Debug\net6.0\ref\ZadanieFirst(if.else).dll

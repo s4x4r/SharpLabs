@@ -1,0 +1,15 @@
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\bin\Debug\net6.0\Lab1VladBondarkov.exe
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\bin\Debug\net6.0\Lab1VladBondarkov.deps.json
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\bin\Debug\net6.0\Lab1VladBondarkov.runtimeconfig.json
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\bin\Debug\net6.0\Lab1VladBondarkov.dll
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\bin\Debug\net6.0\Lab1VladBondarkov.pdb
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\obj\Debug\net6.0\Lab1VladBondarkov.csproj.AssemblyReference.cache
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\obj\Debug\net6.0\Lab1VladBondarkov.GeneratedMSBuildEditorConfig.editorconfig
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\obj\Debug\net6.0\Lab1VladBondarkov.AssemblyInfoInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\obj\Debug\net6.0\Lab1VladBondarkov.AssemblyInfo.cs
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\obj\Debug\net6.0\Lab1VladBondarkov.csproj.CoreCompileInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\obj\Debug\net6.0\Lab1VladBondarkov.dll
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\obj\Debug\net6.0\refint\Lab1VladBondarkov.dll
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\obj\Debug\net6.0\Lab1VladBondarkov.pdb
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\obj\Debug\net6.0\Lab1VladBondarkov.genruntimeconfig.cache
+S:\Laboratornaya prasa\С# labs\Lab-1\Lab1VladBondarkov\Lab1VladBondarkov\obj\Debug\net6.0\ref\Lab1VladBondarkov.dll

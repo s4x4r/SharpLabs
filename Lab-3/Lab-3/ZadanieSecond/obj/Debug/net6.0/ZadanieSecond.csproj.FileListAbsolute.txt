@@ -1,0 +1,15 @@
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\obj\Debug\net6.0\ZadanieSecond.csproj.AssemblyReference.cache
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\obj\Debug\net6.0\ZadanieSecond.GeneratedMSBuildEditorConfig.editorconfig
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\obj\Debug\net6.0\ZadanieSecond.AssemblyInfoInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\obj\Debug\net6.0\ZadanieSecond.AssemblyInfo.cs
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\obj\Debug\net6.0\ZadanieSecond.csproj.CoreCompileInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\bin\Debug\net6.0\ZadanieSecond.exe
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\bin\Debug\net6.0\ZadanieSecond.deps.json
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\bin\Debug\net6.0\ZadanieSecond.runtimeconfig.json
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\bin\Debug\net6.0\ZadanieSecond.dll
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\bin\Debug\net6.0\ZadanieSecond.pdb
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\obj\Debug\net6.0\ZadanieSecond.dll
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\obj\Debug\net6.0\refint\ZadanieSecond.dll
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\obj\Debug\net6.0\ZadanieSecond.pdb
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\obj\Debug\net6.0\ZadanieSecond.genruntimeconfig.cache
+S:\Laboratornaya prasa\С# labs\Lab-3\Lab-3\ZadanieSecond\obj\Debug\net6.0\ref\ZadanieSecond.dll

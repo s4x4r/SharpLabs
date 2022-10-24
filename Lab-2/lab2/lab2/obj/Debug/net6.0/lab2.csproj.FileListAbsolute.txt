@@ -1,0 +1,15 @@
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\obj\Debug\net6.0\lab2.csproj.AssemblyReference.cache
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\obj\Debug\net6.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfoInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\obj\Debug\net6.0\lab2.AssemblyInfo.cs
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\obj\Debug\net6.0\lab2.csproj.CoreCompileInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\bin\Debug\net6.0\lab2.exe
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\bin\Debug\net6.0\lab2.deps.json
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\bin\Debug\net6.0\lab2.runtimeconfig.json
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\bin\Debug\net6.0\lab2.dll
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\bin\Debug\net6.0\lab2.pdb
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\obj\Debug\net6.0\lab2.dll
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\obj\Debug\net6.0\refint\lab2.dll
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\obj\Debug\net6.0\lab2.pdb
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\obj\Debug\net6.0\lab2.genruntimeconfig.cache
+S:\Laboratornaya prasa\С# labs\Lab-2\lab2\lab2\obj\Debug\net6.0\ref\lab2.dll
