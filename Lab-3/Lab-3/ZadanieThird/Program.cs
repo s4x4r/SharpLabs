@@ -1,41 +1,54 @@
 ﻿using System;
 
+
 class program
 {
     static void Main(String[] args)
     {
-        string x;
-        int y;
+        string x, Condition;
+        double y,X;
         Console.WriteLine("Введите x");
         x=Console.ReadLine();
-       
-        
-        switch(x)
+        X= Convert.ToDouble(x);
+        Console.WriteLine("Выберите условие:\n 1)0 <= x && x < 5\n2)5 <= x < 10\n3)10 <= x < 15\n4)15 <= x < 20");
+        Condition =Console.ReadLine();
+
+        switch (Condition)
         {
-            case 0 <= x && x < 5:
+            case "1":
                 {
-                    y = (Math.Sqrt (x + 1) * (x + 1) + 5);
+                    Console.WriteLine("0 <= x && x < 5");
+                    y = (Math.Sqrt (X + 1) * (X + 1) + 5);
                     Console.WriteLine(y); 
                     break;
                 }
-            case 5 <= x < 10:
+            case "2":
                 {
-                    y = Math.Log * (x / 2);
+                    Console.WriteLine("5 <= x < 10");
+                    y = (Math.Log  (X / 2));
                     Console.WriteLine(y);
                     break;
                 }
-            case 10 <= x < 15:
+            case "3":
                 {
-                    y = (Math.Tan * x);
+                    Console.WriteLine("10 <= x < 15");
+                    y = Math.Tan(X);
                     Console.WriteLine(y);
                     break;
                 }
-            case 15 <= x < 20:
+            case "4":
                 {
-                    y = (Math.Sqrt(x + (Math.PI / 2)));
+                    Console.WriteLine("15 <= x < 20");
+                    y = (Math.Sqrt(X + (Math.PI / 2)));
                     Console.WriteLine(y);
                     break;
                 }
+            default:
+                {
+                    Console.WriteLine("Вы ввели бред");
+                    break;
+                }
+
 
         }
         

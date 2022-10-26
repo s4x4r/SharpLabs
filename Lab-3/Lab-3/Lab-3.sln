@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab-3", "Lab-3\Lab-3.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZadanieFirst(if.else)", "ZadanieFirst(if.else)\ZadanieFirst(if.else).csproj", "{A062EE58-259C-432F-9D61-EEBBFFF4E8B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZadanieSecond", "ZadanieSecond\ZadanieSecond.csproj", "{A294F54A-E9F5-4A1D-AC30-52AFC82C046B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZadanieSecond", "ZadanieSecond\ZadanieSecond.csproj", "{A294F54A-E9F5-4A1D-AC30-52AFC82C046B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZadanieThird", "ZadanieThird\ZadanieThird.csproj", "{9670D635-4E27-42D2-8E43-E2780D9BF1B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZadanieThird", "ZadanieThird\ZadanieThird.csproj", "{9670D635-4E27-42D2-8E43-E2780D9BF1B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
