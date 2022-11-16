@@ -1,0 +1,15 @@
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\bin\Debug\net6.0\Laboratory work4.exe
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\bin\Debug\net6.0\Laboratory work4.deps.json
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\bin\Debug\net6.0\Laboratory work4.runtimeconfig.json
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\bin\Debug\net6.0\Laboratory work4.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\bin\Debug\net6.0\Laboratory work4.pdb
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\Laboratory work4.csproj.AssemblyReference.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\Laboratory work4.GeneratedMSBuildEditorConfig.editorconfig
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\Laboratory work4.AssemblyInfoInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\Laboratory work4.AssemblyInfo.cs
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\Laboratory work4.csproj.CoreCompileInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\Laboratory work4.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\refint\Laboratory work4.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\Laboratory work4.pdb
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\Laboratory work4.genruntimeconfig.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\ref\Laboratory work4.dll

@@ -1,0 +1,30 @@
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\bin\Debug\net6.0\TaskFourth.exe
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\bin\Debug\net6.0\TaskFourth.deps.json
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\bin\Debug\net6.0\TaskFourth.runtimeconfig.json
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\bin\Debug\net6.0\TaskFourth.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\bin\Debug\net6.0\TaskFourth.pdb
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\obj\Debug\net6.0\TaskFourth.csproj.AssemblyReference.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\obj\Debug\net6.0\TaskFourth.GeneratedMSBuildEditorConfig.editorconfig
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\obj\Debug\net6.0\TaskFourth.AssemblyInfoInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\obj\Debug\net6.0\TaskFourth.AssemblyInfo.cs
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\obj\Debug\net6.0\TaskFourth.csproj.CoreCompileInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\obj\Debug\net6.0\TaskFourth.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\obj\Debug\net6.0\refint\TaskFourth.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\obj\Debug\net6.0\TaskFourth.pdb
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\obj\Debug\net6.0\TaskFourth.genruntimeconfig.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\TaskFourth\obj\Debug\net6.0\ref\TaskFourth.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\bin\Debug\net6.0\TaskFourth.exe
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\bin\Debug\net6.0\TaskFourth.deps.json
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\bin\Debug\net6.0\TaskFourth.runtimeconfig.json
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\bin\Debug\net6.0\TaskFourth.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\bin\Debug\net6.0\TaskFourth.pdb
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\obj\Debug\net6.0\TaskFourth.csproj.AssemblyReference.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\obj\Debug\net6.0\TaskFourth.GeneratedMSBuildEditorConfig.editorconfig
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\obj\Debug\net6.0\TaskFourth.AssemblyInfoInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\obj\Debug\net6.0\TaskFourth.AssemblyInfo.cs
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\obj\Debug\net6.0\TaskFourth.csproj.CoreCompileInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\obj\Debug\net6.0\TaskFourth.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\obj\Debug\net6.0\refint\TaskFourth.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\obj\Debug\net6.0\TaskFourth.pdb
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\obj\Debug\net6.0\TaskFourth.genruntimeconfig.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4 — Даша\TaskFourth\obj\Debug\net6.0\ref\TaskFourth.dll

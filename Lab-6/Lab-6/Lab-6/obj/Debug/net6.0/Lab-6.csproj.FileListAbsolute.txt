@@ -1,0 +1,15 @@
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\bin\Debug\net6.0\Lab-6.exe
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\bin\Debug\net6.0\Lab-6.deps.json
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\bin\Debug\net6.0\Lab-6.runtimeconfig.json
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\bin\Debug\net6.0\Lab-6.dll
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\bin\Debug\net6.0\Lab-6.pdb
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\obj\Debug\net6.0\Lab-6.csproj.AssemblyReference.cache
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\obj\Debug\net6.0\Lab-6.GeneratedMSBuildEditorConfig.editorconfig
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\obj\Debug\net6.0\Lab-6.AssemblyInfoInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\obj\Debug\net6.0\Lab-6.AssemblyInfo.cs
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\obj\Debug\net6.0\Lab-6.csproj.CoreCompileInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\obj\Debug\net6.0\Lab-6.dll
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\obj\Debug\net6.0\refint\Lab-6.dll
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\obj\Debug\net6.0\Lab-6.pdb
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\obj\Debug\net6.0\Lab-6.genruntimeconfig.cache
+S:\Laboratornaya prasa\С# labs\Lab-6\Lab-6\Lab-6\obj\Debug\net6.0\ref\Lab-6.dll

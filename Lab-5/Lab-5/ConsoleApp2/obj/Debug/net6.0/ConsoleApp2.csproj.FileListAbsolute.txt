@@ -1,0 +1,5 @@
+S:\Laboratornaya prasa\С# labs\Lab-5\Lab-5\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+S:\Laboratornaya prasa\С# labs\Lab-5\Lab-5\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+S:\Laboratornaya prasa\С# labs\Lab-5\Lab-5\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-5\Lab-5\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+S:\Laboratornaya prasa\С# labs\Lab-5\Lab-5\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache

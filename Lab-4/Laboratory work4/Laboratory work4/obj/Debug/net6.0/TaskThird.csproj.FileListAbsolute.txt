@@ -1,0 +1,15 @@
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\bin\Debug\net6.0\TaskThird.exe
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\bin\Debug\net6.0\TaskThird.deps.json
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\bin\Debug\net6.0\TaskThird.runtimeconfig.json
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\bin\Debug\net6.0\TaskThird.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\bin\Debug\net6.0\TaskThird.pdb
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\TaskThird.csproj.AssemblyReference.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\TaskThird.GeneratedMSBuildEditorConfig.editorconfig
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\TaskThird.AssemblyInfoInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\TaskThird.AssemblyInfo.cs
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\TaskThird.csproj.CoreCompileInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\TaskThird.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\refint\TaskThird.dll
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\TaskThird.pdb
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\TaskThird.genruntimeconfig.cache
+S:\Laboratornaya prasa\С# labs\Lab-4\Laboratory work4\Laboratory work4\obj\Debug\net6.0\ref\TaskThird.dll
