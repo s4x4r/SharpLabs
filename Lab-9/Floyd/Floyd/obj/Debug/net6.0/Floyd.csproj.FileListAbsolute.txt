@@ -1,0 +1,15 @@
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\obj\Debug\net6.0\Floyd.csproj.AssemblyReference.cache
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\obj\Debug\net6.0\Floyd.GeneratedMSBuildEditorConfig.editorconfig
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfoInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\obj\Debug\net6.0\Floyd.AssemblyInfo.cs
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\obj\Debug\net6.0\Floyd.csproj.CoreCompileInputs.cache
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\bin\Debug\net6.0\Floyd.exe
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\bin\Debug\net6.0\Floyd.deps.json
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\bin\Debug\net6.0\Floyd.runtimeconfig.json
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\bin\Debug\net6.0\Floyd.dll
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\bin\Debug\net6.0\Floyd.pdb
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\obj\Debug\net6.0\Floyd.dll
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\obj\Debug\net6.0\refint\Floyd.dll
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\obj\Debug\net6.0\Floyd.pdb
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\obj\Debug\net6.0\Floyd.genruntimeconfig.cache
+S:\Laboratornaya prasa\С# labs\Lab-9\Floyd\Floyd\obj\Debug\net6.0\ref\Floyd.dll
